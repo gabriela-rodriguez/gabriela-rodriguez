@@ -1,6 +1,6 @@
 # 💼 **Analista de Negocios de Desarrollo**
 
-¡Bienvenido a mi perfil! [👋]<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/czDldGswQ1beU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pusheen-czDldGswQ1beU">via GIPHY</a></p> Soy un **Analista de Negocios enfocado en desarrollo** con pasión por alinear las estrategias de negocio con soluciones tecnológicas eficientes. Mi trabajo consiste en identificar oportunidades, traducir requisitos en entregables funcionales, y colaborar con equipos multidisciplinarios para impulsar proyectos exitosos.
+¡Bienvenido a mi perfil! [👋] Soy un **Analista de Negocios enfocado en desarrollo** con pasión por alinear las estrategias de negocio con soluciones tecnológicas eficientes. Mi trabajo consiste en identificar oportunidades, traducir requisitos en entregables funcionales, y colaborar con equipos multidisciplinarios para impulsar proyectos exitosos.
 
 ---
 
