@@ -35,5 +35,4 @@
 ---
 
 ### 📩 **Contáctame**  
-- **LinkedIn:** [Tu enlace de LinkedIn]  
-- **Email:** [Tu dirección de correo]  
+- **LinkedIn:** [www.linkedin.com/in/maria-gabriela-rodríguez-16a555174]  
