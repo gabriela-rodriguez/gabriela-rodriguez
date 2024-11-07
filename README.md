@@ -1,10 +1,13 @@
-# 💼 **Analista de Negocios de Desarrollo**
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%ce1983size=28&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@Gabriela.Rodriguez;Computer+Science;Competitive;Always+learning+new+things"></a>
+</p>
 
-¡Bienvenido a mi perfil! [👋] Soy una **Analista de Negocios enfocado en desarrollo** con pasión por alinear las estrategias de negocio con soluciones tecnológicas eficientes. Mi trabajo consiste en identificar oportunidades, traducir requisitos en entregables funcionales, y colaborar con equipos multidisciplinarios para impulsar proyectos exitosos.
+# 💼 **Analista de Negocios de Desarrollo**  <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+¡Bienvenido a mi perfil!  <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1> Soy una **Analista de Negocios enfocado en desarrollo** con pasión por alinear las estrategias de negocio con soluciones tecnológicas eficientes. Mi trabajo consiste en identificar oportunidades, traducir requisitos en entregables funcionales, y colaborar con equipos multidisciplinarios para impulsar proyectos exitosos.
 
 ---
-
-## 🛠 **Lo que hago**  
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lo que hago***
 - **Recopilación y análisis de requisitos:** Transformo las necesidades del cliente en historias de usuario claras y accionables.  
 - **Gestión de proyectos ágiles:** Trabajo bajo marcos como **Scrum** para asegurar entregas iterativas de alto valor.  
 - **Optimización de procesos:** Evalúo y rediseño procesos para mejorar la eficiencia operativa.  
