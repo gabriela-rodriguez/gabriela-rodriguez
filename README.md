@@ -4,7 +4,7 @@
 
 # 💼 **PRODUCT OWNER**  <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-¡Bienvenido a mi perfil!  <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1> Soy una **Analista de Negocios enfocado en desarrollo** con pasión por alinear las estrategias de negocio con soluciones tecnológicas eficientes. Mi trabajo consiste en identificar oportunidades, traducir requisitos en entregables funcionales, y colaborar con equipos multidisciplinarios para impulsar proyectos exitosos.
+¡Bienvenido a mi perfil!  <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1> Soy una **Product Owner enfocado en proyectos tecnológicos** con pasión por alinear las estrategias de negocio con soluciones tecnológicas eficientes. Mi trabajo consiste en identificar oportunidades, traducir requisitos en entregables funcionales, y colaborar con equipos multidisciplinarios para impulsar proyectos exitosos.
 
 ---
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lo que hago***
